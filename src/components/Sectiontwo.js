@@ -12,7 +12,7 @@ const Sectiontwo = () => {
         >
           Watercolor Paintings
         </h2>
-        <a href="/gallary">
+        <a href="#/gallary">
             <button class="px-4 py-2 bg-indigo-500 hover:bg-indigo-600 text-gray-50 font-bold rounded-xl flex items-center gap-2">
               More
               <svg

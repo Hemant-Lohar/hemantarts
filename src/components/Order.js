@@ -17,7 +17,7 @@ const Order = () => {
          
         </div>
         <div>
-              <a href="/contact">
+              <a href="#/contact">
                 <button class="px-4 py-2 text-2xl tracking-tight leading-tight bg-indigo-600 hover:bg-indigo-900 text-gray-50  rounded-xl flex items-center gap-2">
                   Contact
                 </button>

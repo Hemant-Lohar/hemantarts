@@ -8,7 +8,7 @@ const Section = () => {
           <h2 className="mb-4 text-4xl tracking-tight font-bold text-gray-900">
             Pencil Sketches
           </h2>
-          <a href="/gallary">
+          <a href="#/gallary">
             <button class="px-4 py-2 bg-indigo-500 hover:bg-indigo-600 text-gray-50 font-bold rounded-xl flex items-center gap-2">
               More
               <svg
