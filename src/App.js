@@ -10,9 +10,9 @@ function App() {
     <>
         <Navbar />
       <Routes>
-        <Route exact path="https://hemants.live/"  element={<Home />}/>
-        <Route path="https://hemants.live/gallary" element={<GallaryPage/>} />
-        <Route path="https://hemants.live/contact" element={<Contact/>} />
+        <Route exact path="/"  element={<Home />}/>
+        <Route path="/gallary" element={<GallaryPage/>} />
+        <Route path="/contact" element={<Contact/>} />
         
       </Routes>
       <Footer />
