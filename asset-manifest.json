@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/hemantarts/static/css/main.d643aff1.css",
-    "main.js": "/hemantarts/static/js/main.a39fe024.js",
-    "index.html": "/hemantarts/index.html",
-    "main.d643aff1.css.map": "/hemantarts/static/css/main.d643aff1.css.map",
-    "main.a39fe024.js.map": "/hemantarts/static/js/main.a39fe024.js.map"
+    "main.css": "/static/css/main.d643aff1.css",
+    "main.js": "/static/js/main.01bdffc5.js",
+    "index.html": "/index.html",
+    "main.d643aff1.css.map": "/static/css/main.d643aff1.css.map",
+    "main.01bdffc5.js.map": "/static/js/main.01bdffc5.js.map"
   },
   "entrypoints": [
     "static/css/main.d643aff1.css",
-    "static/js/main.a39fe024.js"
+    "static/js/main.01bdffc5.js"
   ]
 }
