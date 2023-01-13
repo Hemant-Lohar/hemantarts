@@ -61,10 +61,10 @@ const Navbar = () => {
                 <a href="/">Home</a>
               </li>
               <li className="border-b  my-8 text-indigo-600">
-                <a href="/gallary">Gallary</a>
+                <a href="#/gallary">Gallary</a>
               </li>
               <li className="border-b  my-8 text-indigo-600">
-                <a href="/contact">Contact</a>
+                <a href="#/contact">Contact</a>
               </li>
             </ul>
           </div>
@@ -82,7 +82,7 @@ const Navbar = () => {
 
           <li>
             <a
-              href="/gallary"
+              href="#/gallary"
               className="text-white hover:bg-gray-50 border-b border-gray-100 md:hover:bg-transparent md:border-0 block pl-3 pr-4 py-2 md:hover:text-indigo-400 md:p-0 "
             >
               Gallary
@@ -91,7 +91,7 @@ const Navbar = () => {
          
           <li>
             <a
-              href="/contact"
+              href="#/contact"
               className="text-white hover:bg-gray-50 border-b border-gray-100 md:hover:bg-transparent md:border-0 block pl-3 pr-4 py-2 md:hover:text-indigo-400 md:p-0"
             >
               Contact
