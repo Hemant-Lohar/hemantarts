@@ -5,7 +5,7 @@ const Navbar = () => {
   const [toggler, settoggler] = useState(false);
 
   const toggle = () => settoggler(!toggler);
-  console.log(toggler);
+ 
 
   const changeBackground = () => {
     if (window.scrollY >= 80) {
@@ -56,7 +56,7 @@ const Navbar = () => {
                 <line x1="6" y1="6" x2="18" y2="18" />
               </svg>
             </div>
-            <ul className="flex flex-col items-center justify-between min-h-[250px]">
+            <ul  onClick={() => settoggler(false)} className="flex flex-col items-center justify-between min-h-[250px]">
               <li className="border-b  my-8 text-indigo-600 ">
                 <a href="/">Home</a>
               </li>
